@@ -6,6 +6,9 @@ This project analyzes customer service performance data to provide actionable in
 
 The analysis was conducted using tools like Power BI to visualize trends and pinpoint areas where the team can optimize resources, enhance customer experiences, and ensure better agent productivity. This report serves as a demonstration of my skills in data analysis, visualization, and strategic recommendations within a customer service context.
 
+## **Data Source**
+https://www.theforage.com/virtual-experience/a87GpgE6tiku7q3gu/pw-c-switzerland/power-bi-cqxg/introduction
+
 ### **Data Cleaning and Processing**
 I removed columns by eliminating irrelevant or redundant ones to reduce the dataset size and focus on only the necessary data. I replaced null values by addressing missing data with appropriate values, such as the mean, median, or a default value, to ensure consistency and avoid errors in analysis. I also cleaned up textual data by removing unwanted characters or symbols to maintain accuracy in string-based fields, such as removing special characters and extra spaces.
 Next, I standardized the data by converting it into a consistent format, ensuring uniformity in elements like date formats, capitalization, and currency units. Finally, I split the data into fact and dimension tables, organizing it to improve structure and performance for future analysis, with fact tables containing transactional data and dimension tables holding descriptive attributes.
